@@ -22,7 +22,7 @@ All four parts are 18,649,551 bytes. They are binary chunks, not individually ex
 
 ## Automatic Android APK build
 
-After the four parts arrive, [GitHub Actions](../../actions/workflows/build-resonance-apk.yml) automatically:
+After the four parts arrive, [GitHub Actions](https://github.com/justappgrabbin/Respnance-network-/actions/workflows/build-resonance-apk.yml) automatically:
 
 1. Concatenates the four binary parts in order.
 2. Verifies every part checksum plus the original whole-ZIP checksum and ZIP integrity.
