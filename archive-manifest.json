@@ -1,0 +1,28 @@
+{
+  "archive": "Resonance-Network-Social-Organism-Merged.zip",
+  "size_bytes": 74598204,
+  "sha256": "2b295c6e76f84ac0a5bdadf3fef71c50380e7bd6ce1e23fd49d8efdc3cfa2a56",
+  "part_count": 4,
+  "parts": [
+    {
+      "name": "Resonance-Network-Social-Organism-Merged.zip.part01-of-04",
+      "size_bytes": 18649551,
+      "sha256": "dcfe8c9a75b602a70546bd232bca552c0e628e63936f2eacee9accc67b999705"
+    },
+    {
+      "name": "Resonance-Network-Social-Organism-Merged.zip.part02-of-04",
+      "size_bytes": 18649551,
+      "sha256": "eb3583158b22572a8c09dae50be4cad48f3071dc61f0f21ce1343b57df752c59"
+    },
+    {
+      "name": "Resonance-Network-Social-Organism-Merged.zip.part03-of-04",
+      "size_bytes": 18649551,
+      "sha256": "8e901bef24cb4cdd6829f43ee8814419c450f5cd06168cadbbd3cabee7c64ddc"
+    },
+    {
+      "name": "Resonance-Network-Social-Organism-Merged.zip.part04-of-04",
+      "size_bytes": 18649551,
+      "sha256": "f439bcfa187fa82536294fe86cf555ae3b8722837a68b3a91d048bedbecc75a7"
+    }
+  ]
+}
